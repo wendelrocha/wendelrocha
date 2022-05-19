@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wendelrocha
 - 👀 I’m interested in Cloud and DevOps
-- 🌱 I’m currently learning Python, Docker, Kubernetes, Terraform and AWS for my Cloud Devops trail
-- 💞️ I’m looking to collaborate on Kubernetes (minikube)
+- 🌱 I’m currently learning Shell Scripting, Docker, Kubernetes, Terraform and AWS for my Cloud-Devops trail
+- 💞️ I’m looking for oportunities to colaborate on voluntary projects
 - 📫 How to reach me on wendel_rocha@hotmail.com and https://www.linkedin.com/wendelrocha1981
 
 <!---
